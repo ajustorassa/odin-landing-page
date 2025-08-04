@@ -86,3 +86,131 @@ a {
 }
 
 /* Section 1 End */
+
+/* Section 2 Start */
+
+.title1 {
+    text-align: center;
+    font-size: 36px;
+    font-weight: 900;
+    color: #1F2937;
+    margin-bottom: 50px;
+    margin-top: 25px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+.image1 {
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    flex: 1 0 auto;
+    border: 3px solid #3882F6;
+    border-radius: 10px;
+}
+
+.text1 {
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    height: 200px;
+    flex: 1 0 auto;
+    text-align: center;
+    margin-top: 10px;
+}
+
+/* Section 2 End */
+
+/* Section 3 Start */
+
+.section3 {
+    background-color: #E5E7EB;
+    padding: 0 438px;
+    padding-bottom: 100px;
+    padding-top: 100px;
+}
+
+.quote {
+    font-size: 36px;
+    font-weight: 100;
+    font-style: italic;
+    color: #1F2937;
+    margin-bottom: 25px;
+}
+
+.author {
+    text-align: right;
+    font-weight: bold;
+    color: #1F2937;
+    font-size: 24px;
+
+}
+
+/* Section 3 End */
+
+/* Section 4 Start */
+
+.section4 {
+    padding: 0 438px;
+    padding-bottom: 100px;
+    padding-top: 100px;
+}
+
+.container2 {
+    background-color: #3882F6;
+    padding: 50px 100px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.container-text {
+    display: flex;
+    flex-direction: column;
+}
+
+.title2 {
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.text2 {
+    color: white;
+}
+
+.sign-up2 {
+    background-color: #3882F6;
+    color: white;
+    border-radius: 5px;
+    border: 2px solid white;
+    font-weight: bold;
+    height: 30px;
+    width: 100px;
+}
+
+/* Section 4 End */
+
+/* Footer Start */
+
+.footer {
+    background-color: #1F2937;
+    padding: 25px 0;
+    text-align: center;
+    color: white;
+}
+
+.copyright {
+    font-size: 18px;
+}
+
+/* Footer End */
